@@ -1,0 +1,6 @@
+owner=520866071889182721
+prefix=N
+game=Nplay
+stayinchannel=true
+songinstatus=false
+token=NTExNjM2OTIyNTE1MzI0OTI5.DstzYA.ONTLzv0tNX6NsPAGzErcs2Aj1mE
