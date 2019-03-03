@@ -1,6 +1,6 @@
-owner=520866071889182721
-prefix=N
-game=Nplay
+owner=519273796243554354
+prefix=1
+game=1play
 stayinchannel=true
 songinstatus=false
-token=NTExNjM2OTIyNTE1MzI0OTI5.DstzYA.ONTLzv0tNX6NsPAGzErcs2Aj1mE
+token=NTUxODk2NDE3Mjk2NDQ5NTM2.D13pGw.EpEC0_OjTn4sk4jfoED3Wd1dnuQ
